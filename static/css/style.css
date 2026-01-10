@@ -1,5 +1,4 @@
 body {
-	font-family: sans-serif;
 	color: white;
 	max-width: 50rem;
 	margin: auto;
@@ -39,7 +38,6 @@ pre {
 
 code {
 	background: #1e1e24;
-	font-family: monospace;
 }
 
 pre code { background: none; }
